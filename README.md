@@ -4,3 +4,7 @@ My name is Juldany Leopold Cesar I am 19 years old. I am only familiar with usin
 I play Playstaion
 Playing basketball
 Going out with friends
+## Profiles
+[GitHub](https://github.com/Juldany)
+## Technical skills
+N/A
